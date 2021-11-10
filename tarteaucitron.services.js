@@ -2219,7 +2219,7 @@ tarteaucitron.services.jsapi = {
 // twitterwidgetsapi
 tarteaucitron.services.twitterwidgetsapi = {
     "key": "twitterwidgetsapi",
-    "type": "api",
+    "type": "social",
     "name": "Twitter Widgets API",
     "uri": "https://support.twitter.com/articles/20170514",
     "needConsent": true,
